@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(255, 255, 255);    
+}
+
+#logo{
+  width: 50px;
+  padding: 5px;
+}
+
+.espacamento{
+padding: 5px;
+}
+
+#produtos{
+text-align: center;
+}
+
